@@ -5,7 +5,6 @@
 # Conditional build:
 %bcond_without	tests	# do not perform "make test"
 
-%include	/usr/lib/rpm/macros.perl
 Summary:	Documentation generator
 Name:		headerdoc
 Version:	8.9.5
